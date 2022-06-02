@@ -1,4 +1,4 @@
-package com.yudhistira.pcs_android_test
+package com.yudhistira.pcs_android_test.helper
 
 class UrlHelper {
      val BASE_URL = "https://arifyudhistira.com/api/"

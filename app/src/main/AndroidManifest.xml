@@ -10,6 +10,15 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.Pcsandroidtest">
         <activity
+            android:name=".SeePostActivity"
+            android:exported="false" />
+        <activity
+            android:name=".CreatePostActivity"
+            android:exported="false" />
+        <activity
+            android:name=".UserActivity"
+            android:exported="false" />
+        <activity
             android:name=".DBActivity"
             android:exported="false" />
         <activity
